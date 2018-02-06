@@ -1,0 +1,64 @@
+2018-02-06 00:56:53 | INFO  |
+			main       | pter.ConsumerAdapter:17    | Sending to MongoDB
+2018-02-06 00:56:53 | INFO  |
+			main       | pter.ConsumerAdapter:21    | Converting JSON to DBOject
+2018-02-06 00:56:53 | INFO  |
+			main       | pter.ConsumerAdapter:24    | Sent to MongoDB
+2018-02-06 00:56:54 | INFO  |
+			main       | ner.ConsumerListener:29    | In onMessage()
+2018-02-06 00:56:54 | INFO  |
+			main       | ner.ConsumerListener:35    | Sending JSON to DB: {vendorName:"Microsofttes3t",firstName:"BobTest3",lastName:"SmithTest3",address:"123 Main test3",city:"TulsaTest3",state:"OKTest3",zip:"71345Test3",email:"Bob@microsoft.test3",phoneNumber:"test-123-3333"}
+2018-02-06 00:56:54 | INFO  |
+			main       | pter.ConsumerAdapter:17    | Sending to MongoDB
+2018-02-06 00:56:54 | INFO  |
+			main       | pter.ConsumerAdapter:21    | Converting JSON to DBOject
+2018-02-06 00:56:54 | INFO  |
+			main       | pter.ConsumerAdapter:24    | Sent to MongoDB
+2018-02-06 00:58:20 | INFO  |
+			main       | pter.ConsumerAdapter:17    | Sending to MongoDB
+2018-02-06 00:58:20 | INFO  |
+			main       | pter.ConsumerAdapter:21    | Converting JSON to DBOject
+2018-02-06 00:58:20 | INFO  |
+			main       | pter.ConsumerAdapter:24    | Sent to MongoDB
+2018-02-06 00:58:21 | INFO  |
+			main       | ner.ConsumerListener:29    | In onMessage()
+2018-02-06 00:58:21 | INFO  |
+			main       | ner.ConsumerListener:35    | Sending JSON to DB: {vendorName:"Microsofttes3t",firstName:"BobTest3",lastName:"SmithTest3",address:"123 Main test3",city:"TulsaTest3",state:"OKTest3",zip:"71345Test3",email:"Bob@microsoft.test3",phoneNumber:"test-123-3333"}
+2018-02-06 00:58:21 | INFO  |
+			main       | pter.ConsumerAdapter:17    | Sending to MongoDB
+2018-02-06 00:58:21 | INFO  |
+			main       | pter.ConsumerAdapter:21    | Converting JSON to DBOject
+2018-02-06 00:58:21 | INFO  |
+			main       | pter.ConsumerAdapter:24    | Sent to MongoDB
+2018-02-06 00:58:55 | INFO  |
+			main       | pter.ConsumerAdapter:17    | Sending to MongoDB
+2018-02-06 00:58:55 | INFO  |
+			main       | pter.ConsumerAdapter:21    | Converting JSON to DBOject
+2018-02-06 00:58:55 | INFO  |
+			main       | pter.ConsumerAdapter:24    | Sent to MongoDB
+2018-02-06 00:58:57 | INFO  |
+			main       | ner.ConsumerListener:29    | In onMessage()
+2018-02-06 00:58:57 | INFO  |
+			main       | ner.ConsumerListener:35    | Sending JSON to DB: {vendorName:"Microsofttes3t",firstName:"BobTest3",lastName:"SmithTest3",address:"123 Main test3",city:"TulsaTest3",state:"OKTest3",zip:"71345Test3",email:"Bob@microsoft.test3",phoneNumber:"test-123-3333"}
+2018-02-06 00:58:57 | INFO  |
+			main       | pter.ConsumerAdapter:17    | Sending to MongoDB
+2018-02-06 00:58:57 | INFO  |
+			main       | pter.ConsumerAdapter:21    | Converting JSON to DBOject
+2018-02-06 00:58:57 | INFO  |
+			main       | pter.ConsumerAdapter:24    | Sent to MongoDB
+2018-02-06 00:59:03 | INFO  |
+			main       | pter.ConsumerAdapter:17    | Sending to MongoDB
+2018-02-06 00:59:03 | INFO  |
+			main       | pter.ConsumerAdapter:21    | Converting JSON to DBOject
+2018-02-06 00:59:03 | INFO  |
+			main       | pter.ConsumerAdapter:24    | Sent to MongoDB
+2018-02-06 00:59:04 | INFO  |
+			main       | ner.ConsumerListener:29    | In onMessage()
+2018-02-06 00:59:04 | INFO  |
+			main       | ner.ConsumerListener:35    | Sending JSON to DB: {vendorName:"Microsofttes3t",firstName:"BobTest3",lastName:"SmithTest3",address:"123 Main test3",city:"TulsaTest3",state:"OKTest3",zip:"71345Test3",email:"Bob@microsoft.test3",phoneNumber:"test-123-3333"}
+2018-02-06 00:59:04 | INFO  |
+			main       | pter.ConsumerAdapter:17    | Sending to MongoDB
+2018-02-06 00:59:04 | INFO  |
+			main       | pter.ConsumerAdapter:21    | Converting JSON to DBOject
+2018-02-06 00:59:04 | INFO  |
+			main       | pter.ConsumerAdapter:24    | Sent to MongoDB

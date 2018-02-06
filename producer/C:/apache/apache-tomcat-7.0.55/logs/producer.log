@@ -1,0 +1,20 @@
+2018-02-06 01:02:22 | INFO  |
+			main       | r.ProducerController:26    | Rendering Index JSP
+2018-02-06 01:02:22 | INFO  |
+			main       | r.ProducerController:33    | Processing Vendor Object
+2018-02-06 01:02:22 | INFO  |
+			main       | r.ProducerController:34    | Vendor [vendorName=UPS, firstName=Bob, lastName=Thomas, address=123 Main st, city=maintown, state=iowa, zipCode=12345, phoneNumber=123-456-7890, email=bob@ups.com]
+2018-02-06 01:02:22 | INFO  |
+			main       | rvice.MessageService:21    | Message: {"vendorName":"UPS","firstName":"Bob","lastName":"Thomas","address":"123 Main st","city":"maintown","state":"iowa","zipCode":"12345","phoneNumber":"123-456-7890","email":"bob@ups.com"}
+2018-02-06 01:02:22 | ERROR |
+			main       | sender.MessageSender:23    | Message: {"vendorName":"UPS","firstName":"Bob","lastName":"Thomas","address":"123 Main st","city":"maintown","state":"iowa","zipCode":"12345","phoneNumber":"123-456-7890","email":"bob@ups.com"}
+2018-02-06 01:02:28 | INFO  |
+			main       | r.ProducerController:26    | Rendering Index JSP
+2018-02-06 01:02:29 | INFO  |
+			main       | r.ProducerController:33    | Processing Vendor Object
+2018-02-06 01:02:29 | INFO  |
+			main       | r.ProducerController:34    | Vendor [vendorName=UPS, firstName=Bob, lastName=Thomas, address=123 Main st, city=maintown, state=iowa, zipCode=12345, phoneNumber=123-456-7890, email=bob@ups.com]
+2018-02-06 01:02:29 | INFO  |
+			main       | rvice.MessageService:21    | Message: {"vendorName":"UPS","firstName":"Bob","lastName":"Thomas","address":"123 Main st","city":"maintown","state":"iowa","zipCode":"12345","phoneNumber":"123-456-7890","email":"bob@ups.com"}
+2018-02-06 01:02:29 | ERROR |
+			main       | sender.MessageSender:23    | Message: {"vendorName":"UPS","firstName":"Bob","lastName":"Thomas","address":"123 Main st","city":"maintown","state":"iowa","zipCode":"12345","phoneNumber":"123-456-7890","email":"bob@ups.com"}
